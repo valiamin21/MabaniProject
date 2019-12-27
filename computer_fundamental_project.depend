@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1577440349 source:/home/amin/Desktop/computer_fundamental_project/main.cpp
+	<iostream>
+	<stdlib.h>
+	"MatrixOperations.h"
+
+1577441065 /home/amin/Desktop/computer_fundamental_project/MatrixOperations.h
+	<iostream>
+	"RandomGenerate.h"
+
+1577439854 /home/amin/Desktop/computer_fundamental_project/RandomGenerate.h
+	<stdlib.h>
+	<time.h>
+
